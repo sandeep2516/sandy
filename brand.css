@@ -1,0 +1,73 @@
+.wrapper_benefix_german {
+  text-align: justify;
+  color: #000;
+}
+
+.wrapper_benefix_french {
+  text-align: justify;
+  color: #000;
+}
+
+table,
+th,
+td {
+  border: 1px solid #fff;
+  border-collapse: collapse;
+}
+
+table#t01 {
+  width: 100%;
+  background-color: #e9edf4;
+}
+
+table th,
+table td {
+  border-top: 1px solid #fff;
+}
+
+.wrapper_ss {
+  text-align: justify;
+  color: #000;
+}
+
+.link_blue {
+  color: #000;
+}
+
+.padding_top_4 {
+  padding-top: 4%;
+}
+
+.pane-bean-benefix-block-2 img {
+  width: 80%;
+  padding-bottom: 12%;
+}
+
+.hcp-landing-container .pane-bean-benefix-block-2 .wrapper.image.visible {
+  text-align: center;
+}
+
+.pane-bean-benefix-block-3 img {
+  padding-bottom: 7%;
+}
+
+.hcp-landing-container .pane-bean-benefix-block-3 .wrapper.image.visible {
+  text-align: center;
+}
+
+.pane-bean-benefix-block-frz-2 img {
+  width: 80%;
+  padding-bottom: 12%;
+}
+
+.hcp-landing-container .pane-bean-benefix-block-frz-2 .wrapper.image.visible {
+  text-align: center;
+}
+
+.pane-bean-benefix-block-frz-3 img {
+  padding-bottom: 7%;
+}
+
+.hcp-landing-container .pane-bean-benefix-block-frz-3 .wrapper.image.visible {
+  text-align: center;
+}
